@@ -1,0 +1,27 @@
+.formDiv{
+	margin-top: 10%;
+	border: 1px solid #c6c3f3;
+    background-color: #c6c3f3;
+}
+.formSubmit{
+	margin-bottom: 7%;
+	border-radius: 0px !important;
+}
+
+.mformDiv{
+	padding: 20px;
+	background-color: coral;
+	color: white;
+	margin-top:5%;
+}
+header{
+	background-color: coral;
+	height: 5%;
+	padding: 3%;
+}
+.w3-sidebar.w3-light-grey.w3-bar-block > a {
+    padding: 10%;
+}
+table.dataTable tbody th, table.dataTable tbody td{
+	color:black;
+}
